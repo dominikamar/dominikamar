@@ -6,8 +6,6 @@ I have been learning programming since September 2022. I am an ambitious, goal-o
 
 Right now I'm focusing on learning React and Git and improving my coding skills.
 
-LinkedIn: https://www.linkedin.com/in/dominika-m-8bb97423a/
-
 
 <!-- 
 Here are some ideas to get you started:
