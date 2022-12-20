@@ -1,16 +1,13 @@
 Hi! 
 
-<!-- My name is Dominika Marczyńska. I am a front-end developer with a big passion for learning new skills and technologies. 
+My name is Dominika Marczyńska. I am a front-end developer with a big passion for learning new skills and technologies. 
 
-I am an ambitious, goal-oriented person that loves new challenges. Originally, I graduated from Architecture and have been working as an Architect for about 5 years. 
-This experience helped me to develop <span>problem-solving skills, good work organisation, focusing on details as long as successfull umiejętność pracy z klientem. 
-All of these qualities have helped me a lot in creating web-dev applications, which has quickly become my big passion.Ukończyłam szereg kursów na Udemy obejmujące 
-programowanie przy użyciu takich technologii jak HTML5, CSS, JS, Bootstrap, Sass, Gulp, Node-js. Right now I'm focusing on learning React and Git and everyday 
-improving my coding skills. -->
+I have been learning programming since September 2022. I am an ambitious, goal-oriented person that loves new challenges. Originally, I graduated from Architecture and have been working as an Architect for about 5 years. This experience helped me to develop problem-solving skills, good work organisation, focusing on details and ability to successfully work with a client. All of these qualities have helped me a lot in creating web applications, which has quickly become my big passion. I completed variety of courses on Udemy, which consisted of HTML5, CSS3, JS, Bootstrap 5, SASS, Gulp and Node-js lectures as long as basics of UX and UI design and SEO knowledge. Right now I'm focusing on learning React and Git and improving my coding skills.
 
-<!--
-**dominikamar/dominikamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn profile: https://www.linkedin.com/in/dominika-m-8bb97423a/
 
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -21,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
