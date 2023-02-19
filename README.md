@@ -2,7 +2,7 @@ Hi!
 
 My name is Dominika Marczyńska. I am a self motivated front-end developer with a big passion for learning new skills and technologies. 
 
-I am an ambitious, goal-oriented person that loves new challenges and always tries to think outside the box. My main qualities are great problem-solving skills, good work organisation, attention to details and ability to collaborate work with a client. All of these assets have helped me a lot during creating web applications, which is my biggest passion. My Tech Stack is: HTML5, CSS3, JavaScript, React.js, SASS, Bootstrap, Gulp, Git, Node-js, MySQL. I also have wide knowledge of SEO as well as basic UX and UI design standards.
+I am an ambitious, goal-oriented person that loves new challenges and always tries to think outside the box. My main qualities are great problem-solving skills, good work organisation, attention to details, ability to collaborate and work with a client. All of these assets have helped me a lot during creating web applications, which is my biggest passion. My Tech Stack is: HTML5, CSS3, JavaScript, React.js, SASS, Bootstrap, Gulp, Git, Node-js, MySQL. I also have wide knowledge of SEO as well as basic UX and UI design standards.
 
 
 <!-- 
