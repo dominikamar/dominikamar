@@ -1,10 +1,8 @@
 Hi! 
 
-My name is Dominika Marczyńska. I am a front-end developer with a big passion for learning new skills and technologies. 
+My name is Dominika Marczyńska. I am a self motivated front-end developer with a big passion for learning new skills and technologies. 
 
-I am an ambitious, goal-oriented person that loves new challenges. Originally, I graduated from Architecture and have been working as an Architect for about 5 years. This experience allowed me to develop problem-solving skills, good work organisation, attention to details and ability to work with a client. All of these qualities have helped me a lot in creating web applications, which has quickly become my big passion. I completed variety of courses on Udemy, which consisted of HTML5, CSS3, JS, Bootstrap 5, SASS, Gulp, Git, Node-js and MySQL lectures as long as basics of UX and UI design and SEO knowledge. 
-
-Right now I'm focusing on learning React and improving my coding skills.
+I am an ambitious, goal-oriented person that loves new challenges and always tries to think outside the box. My main qualities are great problem-solving skills, good work organisation, attention to details and ability to collaborate work with a client. All of these assets have helped me a lot during creating web applications, which is my biggest passion. My Tech Stack is: HTML5, CSS3, JavaScript, React.js, SASS, Bootstrap, Gulp, Git, Node-js, MySQL. I also have wide knowledge of SEO as well as basic UX and UI design standards.
 
 
 <!-- 
